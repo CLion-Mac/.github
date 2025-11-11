@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/clion">  
+<a href="https://osx-get-software.github.io/.github/clion">  
 <img src="https://img.shields.io/badge/💻_Get_CLion_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="CLion for Mac">  
 </a>  
 </div>  
